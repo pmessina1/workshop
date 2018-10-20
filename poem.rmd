@@ -22,5 +22,11 @@ you, if you change any of this the git program will notice it and compromise you
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+So rested he by the Tumtum tree,  
+And stood a while in thought.  
+And, as in uffish thought he stood,  
+The Jabberwock, with eyes of flame,  
+Came whiffling through the tulgey wood,  
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
